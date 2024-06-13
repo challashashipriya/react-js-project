@@ -1,0 +1,13 @@
+.home{
+  font-family: sans-serif;
+  color:darkmagenta;
+}
+.home-container{
+  gap:5px;
+  margin-top:2%;
+  margin-left: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+  background-color: chartreuse;
+  width:500px;
+}
